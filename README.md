@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="./banner.png" alt="Muhammad Sohail Banner" width="100%">
+</p>
+<p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=MuhammadSohail400&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
