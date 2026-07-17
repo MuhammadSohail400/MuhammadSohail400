@@ -8,7 +8,6 @@
 </p>
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=Muhammad%20Sohail&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 # 👋 Hi, I'm Muhammad Sohail
 
