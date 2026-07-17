@@ -1,3 +1,8 @@
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=MuhammadSohail400&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=Muhammad%20Sohail&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
