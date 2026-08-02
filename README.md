@@ -1,4 +1,4 @@
-```md
+
 <p align="center">
   <img src="./banner.png" alt="Muhammad Sohail Banner" width="100%" />
 </p>
