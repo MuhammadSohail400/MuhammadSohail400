@@ -35,7 +35,7 @@ Backend-Focused Full Stack Developer • Computer Science Student • Problem So
 <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge"/>
 </a>
 
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+<a href="https://leetcode.com/u/iyrw5H02VT/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
@@ -137,7 +137,7 @@ A production-ready e-commerce backend focused on scalability and clean architect
 TypeScript • Node.js • Express • PostgreSQL • Prisma • Redis • Docker
 
 🔗 Repository:
-YOUR_SHOPSMART_REPO
+https://github.com/MuhammadSohail400/shopsmart-ecommerce
 
 ---
 
@@ -159,7 +159,7 @@ An online ticket marketplace where users can browse events and purchase tickets 
 MongoDB • Express.js • React.js • Node.js
 
 🔗 Repository:
-YOUR_TICKETSTUB_REPO
+https://github.com/MuhammadSohail400/stub-ticket-marketplace
 
 ---
 
@@ -181,7 +181,8 @@ Restaurant Management System with modern dashboard and order management.
 React • Node.js • PostgreSQL • Prisma ORM
 
 🔗 Repository:
-YOUR_RESTAURANT_POS_REPO
+https://github.com/MuhammadSohail400/dinestream-pos-system
+
 
 ---
 
@@ -201,7 +202,7 @@ A React-based employee management dashboard.
 React.js • JavaScript • CSS
 
 🔗 Repository:
-YOUR_EMPLOYEE_REPO
+https://github.com/MuhammadSohail400/employee-management-system
 
 ---
 
@@ -297,7 +298,7 @@ https://github.com/MuhammadSohail400
 
 🧠 **LeetCode**
 
-https://leetcode.com/u/YOUR_LEETCODE_USERNAME/
+https://leetcode.com/u/iyrw5H02VT/
 
 ---
 
