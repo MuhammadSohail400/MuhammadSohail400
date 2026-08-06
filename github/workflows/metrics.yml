@@ -1,0 +1,24 @@
+name: Generate Metrics
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # refreshes every 6 hours
+  workflow_dispatch:          # allows manual trigger from the Actions tab
+  push:
+    branches:
+      - main
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: MuhammadSohail400
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Karachi
