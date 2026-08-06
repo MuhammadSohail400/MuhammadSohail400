@@ -251,6 +251,7 @@ A clean **CRUD application** for managing employee records.
 <img src="https://img.shields.io/badge/LeetCode-1a1b26?style=for-the-badge&logo=leetcode&logoColor=ffa116"/>
 </a>
 <img src="https://img.shields.io/badge/Language-C++-1a1b26?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
+<img src="https://img.shields.io/badge/Language-JavaScript-1a1b26?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
 <br/><br/>
 
