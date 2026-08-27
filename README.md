@@ -298,32 +298,18 @@ A clean **CRUD application** for managing employee records.
 <br/>
 
 <!-- ============================================================ -->
-<!-- GITHUB METRICS -->
+<!-- GITHUB INSIGHTS -->
 <!-- ============================================================ -->
-<h2 align="center">📐 GitHub Metrics</h2>
+<h2 align="center">📊 GitHub Insights</h2>
 
 <div align="center">
 
-<!-- 
-  This metrics card is generated via a GitHub Action using lowlighter/metrics.
-  Add the workflow below to .github/workflows/metrics.yml in your profile repo,
-  then embed the generated image here:
-  https://github.com/lowlighter/metrics
--->
-<img src="https://metrics.lecoq.io/MuhammadSohail400?template=classic&base=header,activity,community,repositories,metadata&config.timezone=Asia/Karachi" width="100%"/>
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=MuhammadSohail400&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSohail400&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5" width="49%" />
 
 <br/>
 
-<!-- ============================================================ -->
-<!-- TROPHIES -->
-<!-- ============================================================ -->
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MuhammadSohail400&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadSohail400&theme=tokyo-night&hide_border=true&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=c0caf5" width="98%" />
 
 </div>
 
@@ -336,27 +322,24 @@ A clean **CRUD application** for managing employee records.
 
 <div align="center">
 
-<!--
-  Generated via the Platane/snk GitHub Action.
-  Add a workflow that outputs github-contribution-grid-snake-dark.svg
-  to a branch named "output", then this image will render automatically.
-  Workflow reference: https://github.com/Platane/snk
--->
-<img src="https://raw.githubusercontent.com/MuhammadSohail400/MuhammadSohail400/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<!-- This image appears after the snake GitHub Action creates the output branch. -->
+<img src="https://raw.githubusercontent.com/MuhammadSohail400/MuhammadSohail400/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake" />
 
 </div>
 
 <br/>
 
 <!-- ============================================================ -->
-<!-- WAKATIME -->
+<!-- WEEKLY CODING ACTIVITY -->
 <!-- ============================================================ -->
 <h2 align="center">⌚ Weekly Coding Activity</h2>
 
 <div align="center">
 
-<!-- Requires a WakaTime account connected + wakatime-README pinned gist workflow -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=MuhammadSohail400&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5&layout=compact" width="60%"/>
+<!-- Replace YOUR_WAKATIME_USERNAME only after creating a public WakaTime profile. -->
+<a href="https://github.com/MuhammadSohail400">
+  <img src="https://img.shields.io/badge/WakaTime-Connect%20to%20show%20weekly%20coding%20activity-1a1b26?style=for-the-badge&labelColor=24283b&color=7aa2f7" alt="Connect WakaTime" />
+</a>
 
 </div>
 
