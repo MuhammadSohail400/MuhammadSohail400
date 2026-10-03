@@ -1,174 +1,143 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:414868&height=250&section=header&text=Muhammad%20Sohail&fontSize=58&fontColor=c0caf5&animation=fadeIn&fontAlignY=38&desc=AI-Assisted%20Full-Stack%20Developer%20%7C%20AI%20Automation&descAlignY=58&descSize=20&descColor=7aa2f7"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:112B3C,100:22D3EE&height=200&section=header&text=Muhammad%20Sohail&fontSize=48&fontColor=FFFFFF&fontAlignY=38" alt="Muhammad Sohail" />
 
-<a href="https://github.com/MuhammadSohail400">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=AI-Assisted+Full-Stack+Development;Node.js+%7C+Next.js+%7C+TypeScript;n8n+%7C+APIs+%7C+Workflow+Automation;Growing+into+an+AI-Powered+Full-Stack+Engineer" alt="Typing SVG" />
-</a>
+### AI-Assisted Full-Stack Developer · AI Automation
 
+**Building web applications. Connecting workflows. Growing into AI-powered engineering.**
 
-<a href="https://github.com/MuhammadSohail400">
-<img src="https://img.shields.io/badge/GitHub-MuhammadSohail400-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5"/>
-</a>
-<a href="https://www.linkedin.com/in/muhammad-sohail-a15a38248">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-1a1b26?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-<a href="https://leetcode.com/u/iyrw5H02VT/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-1a1b26?style=for-the-badge&logo=leetcode&logoColor=ffa116"/>
-</a>
-<a href="mailto:msohailg211@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-1a1b26?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
+Karachi, Pakistan · BS Computer Science @ MAJU
+
+[Portfolio](https://m-sohailg-portfolio.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/muhammad-sohail-a15a38248) · [Email](mailto:msohailg211@gmail.com) · [LeetCode](https://leetcode.com/u/iyrw5H02VT/)
+
+<br/>
+
+**Open to full-stack, backend & AI automation internships**
 
 </div>
 
+---
 
-👋 About Me
-I'm Muhammad Sohail, a BS Computer Science student at Mohammad Ali Jinnah University, Karachi, and an AI-Assisted Full-Stack Developer focused on backend engineering and AI automation.
-I build web applications with React, Next.js, Node.js, Express, NestJS, and TypeScript, and I am developing practical automation skills with n8n, APIs, and webhooks.
-My approach to AI-assisted development is to use AI tools to support planning, implementation, and debugging while taking responsibility for understanding, reviewing, and testing the code.
-I completed a Full-Stack Developer internship at MSN Academy × Novik Edge, contributing to a Learning Management System (LMS) with authentication, authorization, REST APIs, and database integration.
-🎯 Current Focus
-- AI-Assisted Full-Stack Development — building applications with React, Next.js, Node.js, NestJS, and TypeScript.
-- Workflow Automation — strengthening n8n skills and planning to learn Make for business process automation.
-- Advanced n8n — working toward sub-workflows, error recovery, retries, reusable workflows, and deployment.
-- AI Agents & LLM Integrations — learning toward tool calling, structured outputs, memory, and API-connected agents.
-- RAG & Knowledge-Based Assistants — planning to explore embeddings, vector databases, and document-based retrieval.
-- Backend Reliability — improving PostgreSQL/Prisma, MongoDB, Redis, Docker, API security, and testing.
-- Practical AI Projects — developing toward job application assistance, e-commerce support, and LMS automation use cases.
-🧭 Where I'm Heading
-My goal is to become an AI-Powered Full-Stack Engineer and build deep expertise in AI automation: combining reliable software engineering with LLM integrations, RAG, and agent-based workflows that solve practical business problems.
-I'm interested in full-stack, backend, and AI automation internship opportunities where I can contribute, learn from experienced engineers, and grow through hands-on work.
+## 👋 About me
 
-🛠️ Tech Stack
-Languages
-<img src="https://skillicons.dev/icons?i=js,ts,cpp,html,css&theme=dark"/>
+I'm **Muhammad Sohail**, a full-stack developer with a strong interest in **backend engineering and business automation**. I enjoy connecting interfaces, APIs, and databases to turn an idea into a working application.
 
-Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark"/>
+During my internship at **MSN Academy × Novik Edge**, I contributed to a Learning Management System across backend architecture, authentication, authorization, database integration, and frontend features.
 
-Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark"/>
+I use **ChatGPT, Claude, Gemini, and Antigravity** to support development, with code review, testing, and understanding as part of the process. I'm also building practical automation skills with **n8n, webhooks, and APIs**.
 
+> **My direction:** Become an AI-Powered Full-Stack Engineer who builds useful applications and the intelligent workflows behind them.
 
-<img src="https://img.shields.io/badge/REST%20APIs-1a1b26?style=for-the-badge&logo=fastapi&logoColor=7aa2f7"/>
-<img src="https://img.shields.io/badge/JWT-1a1b26?style=for-the-badge&logo=jsonwebtokens&logoColor=bb9af7"/>
-<img src="https://img.shields.io/badge/RBAC-1a1b26?style=for-the-badge&logo=auth0&logoColor=9ece6a"/>
+## 🚀 Selected work
 
-Databases
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,prisma&theme=dark"/>
+### 🎓 MSN Academy — Learning Management System
 
-AI-Assisted Development & Automation
-Tools I use: ChatGPT, Claude, Gemini, and Antigravity.
-Currently practicing: n8n, webhooks, HTTP Request nodes, workflow conditions, and JavaScript data transformation.
-Learning roadmap: Advanced n8n and Make → LLM API integration and structured outputs → RAG and vector databases → tool-using AI agents → reliable AI workflows.
-Tools
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman&theme=dark"/>
+An internship project connecting course and content management with authenticated application workflows.
 
+- **My contribution:** Full-stack features, modular REST APIs, authentication, authorization, and database integration.
+- **Engineering practice:** Git/GitHub collaboration, API integration, debugging, and Postman testing.
 
-💼 Experience
-Full-Stack Developer Intern — MSN Academy × Novik Edge
-Jul 2026 – Sep 2026 · Remote
-- Contributed to a full-stack Learning Management System (LMS) as part of a collaborative development team.
-- Worked across frontend and backend features and integrated REST APIs with database-driven workflows.
-- Led backend development involving modular API architecture, authentication, authorization, validation, and database integration.
-- Implemented LMS functionality for course and content management.
-- Collaborated with frontend developers using Git, GitHub, feature branches, pull requests, and code reviews.
-- Tested, debugged, and integrated APIs using Postman.
+[Explore the live app ↗](https://msn-academy-nine.vercel.app/)
 
-🚀 Featured Projects
-🛒 ShopSmart — Full-Stack E-Commerce Platform
-Next.js · TypeScript · Node.js · Express · NestJS · PostgreSQL · Prisma · Redis · Docker
-A full-stack single-vendor e-commerce platform built with a modular backend architecture.
-Key Features
-- JWT authentication and authorization
-- Role-Based Access Control (RBAC)
-- Product, category, cart and order management
-- Redis caching
-- PostgreSQL with Prisma ORM
-- REST API documentation with OpenAPI
-- Dockerized backend services
-- Customer and admin workflows
-<a href="https://github.com/MuhammadSohail400/shopsmart-ecommerce">
-<img src="https://img.shields.io/badge/View_Repository-1a1b26?style=for-the-badge&logo=github&logoColor=7aa2f7"/>
-</a>
+### 💼 HireFlow — Recruitment Platform
 
+A full-stack platform for candidate and recruiter workflows.
 
+- **Features:** Job discovery, filtering, saved jobs, and application tracking.
+- **Backend focus:** Modular NestJS APIs, JWT authentication, refresh-token rotation, RBAC, and ownership guards.
+- **Stack:** React · NestJS · TypeScript · MongoDB · Mongoose · Tailwind CSS
 
+[View source ↗](https://github.com/MuhammadSohail400/hireflow) · [Live demo ↗](https://hireflow-jobs.netlify.app/)
 
-💼 HireFlow — Job Search & Recruitment Platform
-React · NestJS · TypeScript · MongoDB · Mongoose · JWT · Argon2id · Tailwind CSS
-A full-stack recruitment platform designed around candidate and recruiter workflows.
-Key Features
-- Candidate profiles and job discovery
-- Multi-facet job filtering
-- Saved jobs and application tracking
-- Company and recruiter workflows
-- JWT authentication with refresh-token rotation
-- Token-reuse detection
-- RBAC and ownership guards
-- Modular NestJS REST API
-- MongoDB/Mongoose integration
-<a href="https://github.com/MuhammadSohail400/hireflow">
-<img src="https://img.shields.io/badge/View_Repository-1a1b26?style=for-the-badge&logo=github&logoColor=7aa2f7"/>
-</a>
+### 🛒 ShopSmart — E-Commerce Platform
 
+A single-vendor commerce project covering customer and admin workflows.
 
-🤖 AI Automation Project Roadmap
-These are planned extensions and learning projects, rather than completed deployments.
-Project	Planned workflow
-AI Job Application Assistant	Collect job listings, compare requirements with a candidate profile, draft tailored applications, and track progress—with human review before sending.
-AI E-Commerce Support Agent	Answer product FAQs, retrieve order information through authorized APIs, and route unresolved requests to a person.
-MSN LMS Automation	Extend the LMS with enrollment notifications, learning reminders, and progress summaries using application events and n8n workflows.
+- **Features:** Product, category, cart, and order management.
+- **Backend focus:** Authentication, RBAC, PostgreSQL/Prisma, Redis caching, API documentation, and Dockerized services.
+- **Stack:** Next.js · TypeScript · Node.js · Express / NestJS · PostgreSQL · Prisma
 
+[View source ↗](https://github.com/MuhammadSohail400/shopsmart-ecommerce)
 
+## 🛠️ Development toolkit
 
-🧩 Problem Solving
-I regularly practice Data Structures & Algorithms to improve problem-solving and algorithmic thinking.
-Current Topics
-Arrays · Strings · Hash Maps · Two Pointers · Sliding Window · Binary Search · Linked Lists
-<a href="https://leetcode.com/u/iyrw5H02VT/">
-<img src="https://img.shields.io/badge/LeetCode-View_Profile-1a1b26?style=for-the-badge&logo=leetcode&logoColor=ffa116"/>
-</a>
+<p>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,nestjs,tailwind&perline=8&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Node.js, Express, NestJS and Tailwind CSS" />
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,redis,docker,git,github,postman&perline=8&theme=dark" alt="PostgreSQL, MongoDB, Prisma, Redis, Docker, Git, GitHub and Postman" />
+</p>
 
+| Area | Technologies & practices |
+| --- | --- |
+| **Frontend** | React, Next.js, Tailwind CSS, Vite |
+| **Backend** | Node.js, Express, NestJS, REST APIs, JWT, RBAC |
+| **Data** | PostgreSQL, MongoDB, Prisma, Mongoose |
+| **Engineering tools** | Git, GitHub, Postman; strengthening Redis and Docker skills |
+| **Automation practice** | n8n, webhooks, HTTP requests, conditions, JavaScript transformations |
+| **AI-assisted development** | ChatGPT, Claude, Gemini, Antigravity |
 
+## 🎯 Current focus & next steps
 
+My learning path combines software engineering with practical AI automation.
 
-📊 GitHub Stats
-<div align="center">
+| Focus | What I'm building toward |
+| --- | --- |
+| **AI-assisted full-stack development** | Better application architecture, implementation, code review, and testing |
+| **Advanced n8n** | Sub-workflows, reusable workflows, retries, error recovery, and deployment |
+| **Make** | Scenario design, service integrations, and business process automation |
+| **LLM integrations & AI agents** | Structured outputs, tool calling, memory, and API-connected agents |
+| **RAG & knowledge assistants** | Embeddings, vector databases, and document-based retrieval |
+| **Backend reliability** | Database design, validation, API security, Redis, Docker, and testing |
 
-<img src="https://github-readme-stats.vercel.app/api?username=MuhammadSohail400&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&count_private=true" width="49%"/>
+**Practicing now:** n8n fundamentals, APIs, webhooks, and data transformation.  
+**Next:** Advanced automation, Make, LLM integrations, AI agents, and RAG.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSohail400&theme=tokyonight&hide_border=true&background=1a1b26&stroke=1a1b26&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" width="49%"/>
+## 🤖 Automation project roadmap
 
-</div>
+Planned projects connecting my full-stack background with AI and workflow automation.
 
+| Project | Intended outcome |
+| --- | --- |
+| **AI Job Application Assistant** | Organize listings, match requirements to a profile, draft tailored applications, and track progress—with review before sending |
+| **AI E-Commerce Support Agent** | Answer product questions, retrieve authorized order details, and hand off unresolved requests |
+| **MSN LMS Automation** | Connect enrollment events to notifications, learning reminders, and progress summaries |
 
-📫 Connect With Me
-<div align="center">
+## 💼 Experience
 
-<a href="https://github.com/MuhammadSohail400">
-<img src="https://img.shields.io/badge/GitHub-MuhammadSohail400-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5"/>
-</a>
+**Full-Stack Developer Intern · MSN Academy × Novik Edge**  
+July – September 2026 · Remote
 
-<a href="https://www.linkedin.com/in/muhammad-sohail-a15a38248">
-<img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Sohail-1a1b26?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
+- Contributed to an LMS across frontend features, backend APIs, and database workflows.
+- Led backend work involving modular architecture, authentication, authorization, and validation.
+- Implemented course and content management functionality.
+- Used Git/GitHub for collaboration and Postman for API testing and debugging.
 
-<a href="https://m-sohailg-portfolio.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-1a1b26?style=for-the-badge&logo=vercel&logoColor=c0caf5"/>
-</a>
+<details>
+<summary><strong>🧩 Problem solving & fundamentals</strong></summary>
 
-<a href="mailto:msohailg211@gmail.com">
-<img src="https://img.shields.io/badge/Email-msohailg211%40gmail.com-1a1b26?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
+<br/>
 
-</div>
+I practice data structures and algorithms alongside project work.
 
+**Focus areas:** Arrays, strings, hash maps, two pointers, sliding window, binary search, and linked lists.
+
+[My LeetCode profile ↗](https://leetcode.com/u/iyrw5H02VT/)
+
+</details>
+
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:414868,50:24283b,100:1a1b26&height=120&section=footer"/>
+### Let's build something useful.
 
-<sub>Building useful software today. Growing into an AI-Powered Full-Stack Engineer.</sub>
+I'm interested in internships and collaborative projects involving  
+**full-stack applications, backend systems, and AI automation.**
+
+[Portfolio](https://m-sohailg-portfolio.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/muhammad-sohail-a15a38248) · [Email](mailto:msohailg211@gmail.com)
+
+<sub>Full-stack foundations. Practical automation. A future in AI-powered engineering.</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:112B3C,100:22D3EE&height=100&section=footer" alt="" />
+
 </div>
